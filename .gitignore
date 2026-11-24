@@ -3,3 +3,6 @@ dist/
 *.tgz
 npm-debug.log
 .DS_Store
+
+# Lean 4 build artifacts
+lean_verify/.lake/
